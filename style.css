@@ -1,16 +1,18 @@
 * {
     box-sizing: border-box;
 }
-.image{
-    width: 80vh;
-    height: 50vh;
-    margin-top: 10vh;
-    margin-left: 50vh;
+body{
+    margin-top: 10vw;
+    margin-bottom: 10vw;
+    margin-left: 25vw;
+    margin-right: 25vw;
 }
+.image{
+    width: 25VW;
+    }
 .click{
-    width: 80vh;
-    height: 5vh;
-    margin-left: 50vh;
+    width: 25vW;
+    height: 5vW;
     background: linear-gradient(to right, red, blue);
     font-family: Monaco;
     font-size: large;
