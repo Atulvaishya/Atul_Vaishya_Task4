@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.image{
+    width: 80vh;
+    height: 50vh;
+    margin-top: 10vh;
+    margin-left: 50vh;
+}
+.click{
+    width: 80vh;
+    height: 5vh;
+    margin-left: 50vh;
+    background: linear-gradient(to right, red, blue);
+    font-family: Monaco;
+    font-size: large;
+    padding: 0px;
+}
